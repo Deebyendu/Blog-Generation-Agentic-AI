@@ -1,0 +1,9 @@
+langchain
+langgraph
+python-dotenv
+langchain_community
+langchain_groq
+langchain-classic
+fastapi
+watchdog
+langchain-cli[inmem]
