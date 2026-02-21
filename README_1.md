@@ -69,7 +69,7 @@ START → title_creation → content_generation → route
 | LLM Provider     | [Groq](https://groq.com/) (`openai/gpt-oss-120b`)                              |
 | Orchestration    | [LangGraph](https://github.com/langchain-ai/langgraph)                         |
 | LLM Framework    | [LangChain](https://www.langchain.com/)                                        |
-| API Server       | [FastAPI](https://fastapi.tiangolo.com/) + [Uvicorn](https://www.uvicorn.org/) |
+| API Server       | [FastAPI](https://fastapi.tiangolo.com/) |
 | Package Manager  | [uv](https://github.com/astral-sh/uv)                                          |
 | Observability    | [LangSmith](https://smith.langchain.com/)                                      |
 | Studio Debugging | [LangGraph Dev Studio](https://docs.langchain.com/langgraph/studio)            |
